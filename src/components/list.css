@@ -1,0 +1,21 @@
+.list-title
+{
+    text-align: center;
+    margin-top: 1rem;
+    color: #000;
+}
+
+.list-frame
+{
+   /* border: 1px solid yellow; */
+   width: 70%;
+   margin: auto;
+   display: flex;
+   justify-content: center;
+   margin-top: 1rem;
+   padding: 1rem;
+   flex-wrap: wrap;
+   gap: 1.5rem;
+
+}
+
